@@ -1,1 +1,19 @@
-{}
+{
+    "label":{
+        "footer": "Liven Tech selection process",
+        "stock": "Stock",
+        "created": "Creation date",
+        "buy": "Buy",
+        "unitPrice": "Unit price",
+        "subTotal": "Sub Total",
+        "total": "Total",
+        "finish": "Checkout",
+        "search": "Search"
+    },
+    "messages": {
+        "productAdd": "Product added to cart",
+        "finishBuy": "Purchase completed",
+        "noProductCart": "There are no products added to the cart, click buy to add a product to the cart"
+    }
+
+}

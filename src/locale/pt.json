@@ -1,1 +1,19 @@
-{}
+{
+    "label":{
+        "footer": "Processo seletivo Liven Tech",
+        "stock": "Estoque",
+        "created": "Data de Criação",
+        "buy": "Comprar",
+        "unitPrice": "Preço Unitário",
+        "subTotal": "Sub Total",
+        "total": "Total",
+        "finish": "Finalizar Compra",
+        "search": "Pesquisar"
+    },
+    "messages": {
+        "productAdd": "Produto adicionado ao carrinho",
+        "finishBuy": "Compra Finalizada",
+        "noProductCart": "Não há produtos adicionados no carrinho, clique em comprar para adicionar um produto no carrinho"
+    }
+
+}

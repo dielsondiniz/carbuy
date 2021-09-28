@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+//Importação para utilização do redux
 import { Provider } from 'react-redux';
 import { store } from './store'
-
+//Importação para internacionalização
 import i18n from './i18n';
 import { I18nextProvider } from 'react-i18next';
 

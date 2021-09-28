@@ -1,1 +1,19 @@
-{}
+{
+    "label":{
+        "footer": "Proceso de selección de Liven Tech",
+        "stock": "Inventario",
+        "created": "Fecha de creación",
+        "buy": "Compra",
+        "unitPrice": "Precio unitario",
+        "subTotal": "Sub total",
+        "total": "Total",
+        "finish": "Verificar",
+        "search": "Buscar"
+    },
+    "messages": {
+        "productAdd": "Producto añadido al carrito",
+        "finishBuy": "Compra completada",
+        "noProductCart": "No hay productos agregados al carrito, haga clic en comprar para agregar un producto al carrito"
+    }
+
+}
